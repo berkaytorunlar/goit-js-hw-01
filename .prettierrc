@@ -34,5 +34,6 @@
     "parser": "babel",
     "plugins": [
       "prettier-plugin-svelte"
-    ] ,
+    ]
   }
+  
